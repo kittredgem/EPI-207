@@ -1,7 +1,7 @@
 /****************************************************************
-Name: 207 Assignment 2.sas
+Name: 207 Assignment 3.sas
 Created by: Kitt McVey
-Creation date: 11042026
+Creation date: 11162026
 Purpose: To complete Assignment 3
 *****************************************************************/
 libname kitt "/home/u64421158/207 - Repro/assignment3";
